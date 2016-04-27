@@ -27,4 +27,3 @@ Here's a walkthrough of implemented user stories:
 
 ![Video Walkthrough](./walkthrough.gif)
 
-GIF created with RecordIt
